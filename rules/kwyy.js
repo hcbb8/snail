@@ -1,6 +1,6 @@
 *******************************
 [rewrite_local]
-^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).* url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kwyy.js
+^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).* url script-response-body https://raw.githubusercontent.com/hcbb8/snail/main/rules/kwyy.js
 [mitm] 
 hostname = *.kuwo.cn, *.lrts.me
 ********************************/
